@@ -1,0 +1,1 @@
+This is gmitc's first git project!
